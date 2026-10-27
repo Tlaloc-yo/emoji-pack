@@ -1,0 +1,40 @@
+{
+  "id": "tlaloc-emoji",
+  "name": "自用表情包 25 张",
+  "version": "1.0.0",
+  "categories": {
+    "speechless": {
+      "description": "无语 / 冷漠 / 面无表情 / 看穿一切"
+    },
+    "confused": {
+      "description": "疑惑 / 思考 / 没听懂"
+    },
+    "happy": {
+      "description": "开心 / 兴奋 / 打招呼"
+    },
+    "angry": {
+      "description": "生气 / 抱怨 / 凶人"
+    },
+    "shocked": {
+      "description": "震惊 / 吓到 / 意外"
+    },
+    "cute": {
+      "description": "可爱 / 卖萌 / 探头"
+    },
+    "nervous": {
+      "description": "紧张 / 出汗 / 心虚"
+    },
+    "smug": {
+      "description": "得意 / 坏笑 / 挑衅"
+    },
+    "other": {
+      "description": "其他 / 杂项"
+    }
+  },
+  "source": {
+    "type": "github",
+    "repo": "Tlaloc-yo/emoji-pack",
+    "ref": "main",
+    "subpath": "packs/emoji-pack"
+  }
+}
